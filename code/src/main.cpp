@@ -2,7 +2,7 @@
 #define DEBUG
 
 #ifdef DEBUG
-    #include "log.h"
+    #include "log.hh"
 #endif
 
 // это звиздец товарищи
